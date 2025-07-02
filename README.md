@@ -100,7 +100,7 @@ GitHub: [https://github.com/obaidullah72/signbot\_backend\_models](https://githu
 ## 🧑‍💻 Author
 
 **Obaidullah Mansoor**
-Co-Founder at [Superior Digital Services](https://www.linkedin.com/in/obaidullah72)
+Co-Founder at [ZONEX DEV](https://www.linkedin.com/in/obaidullah72)
 
 ---
 
