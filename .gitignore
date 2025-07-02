@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebooks (optional)
+*.ipynb
+
+# Keras and TensorFlow model files
+*.keras
+*.h5
+*.tflite
+
+# Dataset or large folders (optional)
+*.zip
+*.tar.gz
+*.hdf5
+*.npz
+.DS_Store
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
